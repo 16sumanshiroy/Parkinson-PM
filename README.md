@@ -94,9 +94,9 @@ Visualizes True Positives, False Positives, etc.
 ---
 
 ## 👩‍💻 Authors
-- Anisha Yadav  
+- **Sumanshi Roy**
 - Ramandeep Ratan  
-- **Sumanshi Roy** — [GitHub](https://github.com/sumanshiroy)  
+- Anisha Yadav  
 - Musharraf Ali  
 > Supervised by **Mr. Santosh Kumar**, Asst. Professor, REC Bijnor
 
