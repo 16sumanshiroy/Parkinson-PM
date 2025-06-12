@@ -23,10 +23,11 @@ Neurodegenerative diseases like Parkinson’s and Alzheimer’s are hard to diag
 
 ---
 
-## 🧠 Models Implemented![1000000895](https://github.com/user-attachments/assets/43b49c49-8669-48af-af0a-d4e45cc4177a)
+## 🧠 Models Implemented
+![1000000895](https://github.com/user-attachments/assets/43b49c49-8669-48af-af0a-d4e45cc4177a)
 ![1000000894](https://github.com/user-attachments/assets/7c025757-a738-4c41-9c72-50972617ada8)
-![1000000893](https://github.com/user-attachments/assets/2f1c648e-490b-4f79-86c9-ba11329ba4de)
-![1000000892](https://github.com/user-attachments/assets/b71c37ed-d077-4298-9b49-0ba565e50f35)
+
+
 
 
 ### 📈 Machine Learning:
@@ -58,15 +59,16 @@ Neurodegenerative diseases like Parkinson’s and Alzheimer’s are hard to diag
 ## 📸 Sample Outputs & Plots
 
 ### 🎯 Accuracy Comparison of Models
-![Accuracy Comparison](images/accuracy.png)
+![1000000895](https://github.com/user-attachments/assets/43b49c49-8669-48af-af0a-d4e45cc4177a)
 
 ### 🔥 Correlation Heatmap
 Shows relationships between features and helps in dimensionality reduction.
-![Correlation Heatmap](images/heatmap.png)
+![1000000892](https://github.com/user-attachments/assets/b71c37ed-d077-4298-9b49-0ba565e50f35)
 
 ### ✅ Confusion Matrix
 Visualizes True Positives, False Positives, etc.
-![Confusion Matrix](images/confusion_matrix.png)
+![1000000893](https://github.com/user-attachments/assets/2f1c648e-490b-4f79-86c9-ba11329ba4de)
+
 
 ---
 
