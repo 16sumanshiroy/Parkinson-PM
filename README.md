@@ -24,8 +24,8 @@ Neurodegenerative diseases like Parkinson’s and Alzheimer’s are hard to diag
 ---
 
 ## 🧠 Models Implemented
-![1000000895](https://github.com/user-attachments/assets/43b49c49-8669-48af-af0a-d4e45cc4177a)
 ![1000000894](https://github.com/user-attachments/assets/7c025757-a738-4c41-9c72-50972617ada8)
+![1000000895](https://github.com/user-attachments/assets/43b49c49-8669-48af-af0a-d4e45cc4177a)
 
 
 
@@ -59,6 +59,7 @@ Neurodegenerative diseases like Parkinson’s and Alzheimer’s are hard to diag
 ## 📸 Sample Outputs & Plots
 
 ### 🎯 Accuracy Comparison of Models
+![1000000894](https://github.com/user-attachments/assets/7c025757-a738-4c41-9c72-50972617ada8)
 ![1000000895](https://github.com/user-attachments/assets/43b49c49-8669-48af-af0a-d4e45cc4177a)
 
 ### 🔥 Correlation Heatmap
